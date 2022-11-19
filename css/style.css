@@ -1,0 +1,32 @@
+body{
+	padding: auto;
+	background: url(../img/5.jpeg) center no-repeat fixed;
+	color: darkred;
+}
+.block{
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	height: 180px;
+	width: 900px;
+	border-radius:10px;
+	box-shadow:  0 0 10px #000;
+	background: url(../img/abs.jpeg)  center no-repeat fixed;
+	opacity: 0.9;
+	background-size: cover;
+	font-size: 20px;
+	font-family: arial;
+	text-align: center;
+	vertical-align: center;
+	color: darkblue;
+}
+.list li{
+	margin: 0 20px 5px 0;
+	background: none;
+	font-size: 18px;
+	font-family: arial;
+	color: beige;
+}
+li{
+	padding-left: auto;
+}
